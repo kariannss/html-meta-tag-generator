@@ -1,0 +1,1 @@
+function meta(t, d) { return `<title>${t}</title><meta name="description" content="${d}">`; } module.exports = { meta };
